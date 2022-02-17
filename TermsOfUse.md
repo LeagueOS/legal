@@ -1,12 +1,12 @@
 # Terms of Use
 
-### Last Modified ___________, 2022
+#### Last Modified February 17, 2022
 
 The below terms and conditions govern your access to and use of LeagueOS.gg and/or LeagueOS-branded applications, including any content, functionality, and services offered on or through the same (collectively, and with any replacements thereof, the “Website”). Any services and functionalities offered to users through the Website may collectively be referred to as “Services” herein.
 
 Within this policy, “you” or “User” means a user of the Website, and “we”, “us”, “our” or “LeagueOS” refers to LeagusOS, Inc., a Delaware corporation. There may be various categories of Users, and a reference to a User by another term (e.g., a League Owner or Sponsor), or providing specific terms applicable to certain categories of Users, does not affect or change the general obligations of all Users as set forth in this policy.
 
-By using the Website, or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound by and to abide by these Terms of Use and our Privacy Policy, found at [privacy policy URL], incorporated herein by reference. If you do not want to agree to these Terms of Use or the Privacy Policy at any time, you must not continue to access or use the Website.
+By using the Website, or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound by and to abide by these Terms of Use and our Privacy Policy, found at [https://www.leagueos.gg/privacy](https://www.leagueos.gg/privacy), incorporated herein by reference. If you do not want to agree to these Terms of Use or the Privacy Policy at any time, you must not continue to access or use the Website.
 
 PLEASE REVIEW THE ARBITRATION PROVISION SET FORTH BELOW CAREFULLY, AS IT WILL REQUIRE YOU TO RESOLVE DISPUTES WITH LEAGUEOS THROUGH FINAL AND BINDING ARBITRATION.
 
@@ -88,7 +88,7 @@ USERS UNDER 13: If you are under the age of 13 and located within the United Sta
 
    1. If you are uploading User Content in any way to the Website, you agree to refrain from sharing content, including music, videos, and other works which you do not have right or authority to share. Please be aware that purchasing music through via MP3 or another format generally does not give you the right to broadcast or share that music with others.
 
-   2. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible on or from the Website infringe your copyright, you may request removal of those materials (or access to them) from the Website by submitting written notification to our copyright agent at [email]. The written notice (the “DMCA Notice”) must include substantially the following:
+   2. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible on or from the Website infringe your copyright, you may request removal of those materials (or access to them) from the Website by submitting written notification to our copyright agent at legal@leagueos.gg. The written notice (the “DMCA Notice”) must include substantially the following:
 
       1. Your physical or electronic signature;
 
@@ -166,4 +166,4 @@ USERS UNDER 13: If you are under the age of 13 and located within the United Sta
 
 19. **Waiver and Severability.** No waiver by LeagueOS of any term or condition set out in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of LeagueOS to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision. If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect.
 
-20. **Comments and Concerns.** We welcome our Users to report any suspected violation of this Terms of User or Privacy Policy, including allegedly incorrect information posted by Users, by reaching out to us using the following contact email: [email]. We will investigate any such report and may act as we deem appropriate in our sole discretion. 
+20. **Comments and Concerns.** We welcome our Users to report any suspected violation of this Terms of User or Privacy Policy, including allegedly incorrect information posted by Users, by reaching out to us using the following contact email: legal@leagueos.gg. We will investigate any such report and may act as we deem appropriate in our sole discretion. 
