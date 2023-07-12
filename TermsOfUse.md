@@ -1,6 +1,6 @@
 # Terms of Use
 
-#### Last Modified February 17, 2022
+#### Last Modified July 12, 2023
 
 The below terms and conditions govern your access to and use of LeagueOS.gg and/or LeagueOS-branded applications, including any content, functionality, and services offered on or through the same (collectively, and with any replacements thereof, the “Website”). Any services and functionalities offered to users through the Website may collectively be referred to as “Services” herein.
 
@@ -107,7 +107,9 @@ USERS UNDER 13: If you are under the age of 13 and located within the United Sta
    3. Our designated copyright agent to receive DMCA Notices is:
 
       Marty Wetherall
-      LeagueOS, Inc.      
+
+      LeagueOS, Inc.
+
       legal@leagueos.gg
 
    4. If you fail to comply with the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective. Please be aware that if you knowingly materially misrepresent that material or activity on the Website is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA.
