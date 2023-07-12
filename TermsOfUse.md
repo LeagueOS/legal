@@ -106,15 +106,9 @@ USERS UNDER 13: If you are under the age of 13 and located within the United Sta
 
    3. Our designated copyright agent to receive DMCA Notices is:
 
-      [FIRST AND LAST NAME OF AGENT]
-      
-      [NAME OF AGENT'S ORGANIZATION]
-      
-      [PHYSICAL MAIL ADDRESS OF AGENT]
-      
-      [TELEPHONE NUMBER OF AGENT]
-      
-      [EMAIL ADDRESS OF AGENT]
+      Marty Wetherall
+      LeagueOS, Inc.      
+      legal@leagueos.gg
 
    4. If you fail to comply with the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective. Please be aware that if you knowingly materially misrepresent that material or activity on the Website is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA.
 
